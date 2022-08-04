@@ -152,28 +152,28 @@ const Tentor = () => {
               <Figure>Tentor Kimia</Figure>
                 <Image src={tentorss1} style={{bottom: "90px"}}/>
               </ImgContainer>
-              <CardTitle>Muhammad Fahmi Ridlo</CardTitle>
+              <CardTitle>Ricky Han</CardTitle>
             </Card>
             <Card>
               <ImgContainer>
               <Figure>Tentor Fisika</Figure>
                 <Image src={tentorss2} style={{bottom: "90px"}}/>
               </ImgContainer>
-              <CardTitle>Fifa Pransiska Indra Loseta</CardTitle>
+              <CardTitle>Celine Prestine</CardTitle>
             </Card>
             <Card>
               <ImgContainer>
               <Figure>Tentor Bahasa Indonesia</Figure>
-                <Image src={tentorss3} style={{bottom: "90px"}}/>
+                <Image src={tentorss3} style={{width: "100%", bottom: "90px"}}/>
               </ImgContainer>
-              <CardTitle>Khusnia</CardTitle>
+              <CardTitle>Aprilia</CardTitle>
             </Card>
             <Card>
               <ImgContainer>
               <Figure>Tentor Matematika</Figure>
                 <Image src={tentorss4} style={{bottom: "90px"}}/>
               </ImgContainer>
-              <CardTitle>Sophia Maulidatul Adha</CardTitle>
+              <CardTitle>Melina San</CardTitle>
             </Card>
           </CardsItem>
 
@@ -183,21 +183,21 @@ const Tentor = () => {
               <Figure>Tentor IPS</Figure>
                 <Image src={tentorss5} />
               </ImgContainer>
-              <CardTitle>Nur Lailatul Maghfiroh</CardTitle>
+              <CardTitle>Gilbert Strileto</CardTitle>
             </Card>
             <Card>
               <ImgContainer>
               <Figure>Tentor Biologi</Figure>
                 <Image src={tentorss6} />
               </ImgContainer>
-              <CardTitle>Vania Nur Azizah</CardTitle>
+              <CardTitle>Stuart Marcus</CardTitle>
             </Card>
             <Card>
               <ImgContainer>
               <Figure>Tentor Bahasa Inggris</Figure>
                 <Image src={tentorss7} />
               </ImgContainer>
-              <CardTitle>Nur Hamidatul Mauidloh</CardTitle>
+              <CardTitle>Selena West</CardTitle>
             </Card>
           </CardsItem>
         </Info>
